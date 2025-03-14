@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "key": {
+    "*": {
+      "item": "minecraft:pink_dye"
+    },
+    "&": {
+      "item": "minecraft:nether_star"
+    },
+    "#": {
+      "item": "minecraft:amethyst_cluster"
+    }
+  },
+  "pattern": [
+    "&*&",
+    "*#*",
+    "&*&"
+  ],
+  "result": {
+    "count": 1,
+    "item": "amodforelysia:ture_charm"
+  }
+
+}
